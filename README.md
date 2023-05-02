@@ -7,6 +7,11 @@ This repository documents my responses to the "**0x01. Git**" project tasks.
 - Git is Version Control System: A Version Control System records the changes made to code over time in a special database called a repository.  
 - Version Control systems allow us to track project history and work together. 
 
+[Centralized vs Distributed Version Control Systems](https://drive.google.com/file/d/1KiLuE95z5jQjgOq6I_fIcpW27RMedJhu/view?usp=share_link)
+
+[Git Workflow](https://drive.google.com/file/d/1ZLG52CEPLZk_nwpKwQ28Zk-3Y24b6k5g/view?usp=share_link)
+
+
 
 # Tasks:
 1. Repo-session
